@@ -1,0 +1,11 @@
+{
+  "binaries": [
+    {
+      "name": "errors",
+      "src_path": "/home/nex/Desktop/Projects/Rusty\\/errors/src/main.rs"
+    }
+  ],
+  "examples": [],
+  "integration_tests": [],
+  "unit_tests": []
+}

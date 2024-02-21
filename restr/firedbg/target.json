@@ -1,0 +1,13 @@
+{
+  "binaries": [],
+  "examples": [],
+  "integration_tests": [],
+  "unit_tests": [
+    {
+      "package_name": "restr",
+      "test_cases": [
+        "tests::it_works"
+      ]
+    }
+  ]
+}

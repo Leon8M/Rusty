@@ -1,0 +1,11 @@
+{
+  "binaries": [
+    {
+      "name": "enums",
+      "src_path": "/home/nex/Desktop/Projects/Rusty\\/enums/src/main.rs"
+    }
+  ],
+  "examples": [],
+  "integration_tests": [],
+  "unit_tests": []
+}
